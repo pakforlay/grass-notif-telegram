@@ -1,7 +1,7 @@
 # Grass - Notif Point with bot telegram
 
-🔗 **Support with register this Link**: [Grass Register](https://app.getgrass.io/register/?referralCode=zZYYYBnqOIv0CRj)
-🔗 **Or Sent SOL**: DR7K4BiDB1hRG4f6QkkGQjvE1awQH611pXtt5UPbbgVH
+- 🔗 **Support with register this Link**: [Grass Register](https://app.getgrass.io/register/?referralCode=zZYYYBnqOIv0CRj)
+- 🔗 **Or Sent SOL**: DR7K4BiDB1hRG4f6QkkGQjvE1awQH611pXtt5UPbbgVH
 
 ## 📢 Contact me
 
