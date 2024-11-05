@@ -22,7 +22,7 @@
 
 - Download NodeJS
 - open cmd
-- type " git clone [https://github.com/pakforlay/frogs-inject/ ](https://github.com/pakforlay/grass-notif-telegram)"
+- type " git clone [https://github.com/pakforlay/grass-notif-telegram/ ](https://github.com/pakforlay/grass-notif-telegram)"
 - type " npm install "
 
 ## ⚠️ Note (command bot tele)
